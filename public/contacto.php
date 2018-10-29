@@ -47,7 +47,7 @@
       <!--<a id="logo-container" href="#" class="brand-logo">Logo</a>-->
       
       <ul class="right hide-on-med-and-down">
-        <li><a href="index.html">Inicio</a></li>
+        <li><a href="index.php">Inicio</a></li>
          <!--<li><a href="#" data-activates="comp-menu3" class="dropdown-button btn">Servicios</a></li>-->
         <li><a href="nosotros.php">Nosotros</a></li>
         <li><a href="contacto.php">Contacto</a></li>
@@ -57,7 +57,7 @@
       </ul>
 
       <ul id="nav-mobile" class="side-nav" style="background-color: #2DDB2D;">
-        <li><a href="index.html">Inicio</a></li>
+        <li><a href="index.php">Inicio</a></li>
         
         
         <li><a href="nosotros.php">Nosotros</a></li>
@@ -115,8 +115,9 @@
     <div class="row">
     <h3 class="center-align" style="color: #25D366;">CONTACTO</h3>
       <article class="offset-s3">
-        <form role="form" method="POST" action="contacto">
-          
+
+        <form role="form" method="POST" action="contacto" enctype="multipart/form-data">
+
 
           <div class="col s6 m6">
           <div class="input-field">
@@ -156,6 +157,7 @@
             <textarea name="mensaje"  rows="10" class="materialize-textarea"  length="140" required></textarea>
           </div>
           </div>
+        }
 <!--
           <div class="form-group">
                         <textarea id="contenido_mail" name="contenido_mail" class="form-control" style="height: 200px" placeholder="escriba aquí...">
@@ -258,7 +260,7 @@
         <div class="row">
             
  <div class="col s5 m5 left-align">
-      <b>Todos los derechos reservados a </b><a class="grey-text text-darken-4" href="index.html"><br><b>AutoEnergy Ingeniería y Servicios SPA</b></a> </div>
+      <b>Todos los derechos reservados a </b><a class="grey-text text-darken-4" href="index.php"><br><b>AutoEnergy Ingeniería y Servicios SPA</b></a> </div>
             <div class="col s7 m7 right-align"><b>Fono Contacto +569 - 48740003</b>
                </div>
       

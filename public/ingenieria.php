@@ -46,7 +46,7 @@
       <!--<a id="logo-container" href="#" class="brand-logo">Logo</a>-->
       
       <ul class="right hide-on-med-and-down">
-        <li><a href="index.html">Inicio</a></li>
+        <li><a href="index.php">Inicio</a></li>
         <!--<li><a href="#" data-activates="comp-menu3" class="dropdown-button btn">Servicios</a></li>-->
         <li><a href="nosotros.php">Nosotros</a></li>
         <li><a href="contacto.php">Contacto</a></li>
@@ -56,7 +56,7 @@
       </ul>
 
       <ul id="nav-mobile" class="side-nav" style="background-color: #2DDB2D;">
-        <li><a href="index.html">Inicio</a></li>
+        <li><a href="index.php">Inicio</a></li>
         
         
        <li><a href="ingenieria.php">Ingeniería</a></li>
@@ -297,7 +297,7 @@
             
 
             <div class="col s5 m5 left-align">
-      <b>Todos los derechos reservados a </b><a class="grey-text text-darken-4" href="index.html"><br><b>AutoEnergy Ingeniería y Servicios SPA</b></a> </div>
+      <b>Todos los derechos reservados a </b><a class="grey-text text-darken-4" href="index.php"><br><b>AutoEnergy Ingeniería y Servicios SPA</b></a> </div>
             <div class="col s7 m7 right-align"><b>Fono Contacto +569 - 48740003</b>
 
       
